@@ -1,0 +1,21 @@
+###		Syntax Highlighting 	###
+
+###################################
+###      Keyword1 - Types       ###
+###################################
+SensorArray	KEYWORD1
+
+
+
+###################################
+###		KEYWORD2 - Functions	###
+###################################
+getLocation	KEYWORD2
+readPin		KEYWORD2
+
+
+
+###################################
+###		LITERAL1 - Constants	###
+###################################
+MAX_SENSORS	LITERAL1
