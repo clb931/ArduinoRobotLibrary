@@ -1,2 +1,2 @@
 # ArduinoRobotLibrary
-Library for AU Sparcs IEEE robot
+Library for SPaRC's IEEE robot
